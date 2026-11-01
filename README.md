@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-profile.svg" width="100%" alt="Jérémie Nagi, AI Developer and Junior Pentester" />
+  <a href="https://www.jeremie-nagi.workers.dev/"><img src="./assets/terminal-profile.svg" width="100%" alt="Jérémie Nagi, AI Developer and Junior Pentester" /></a>
 </p>
 
 <p align="center">
@@ -24,19 +24,13 @@
 | **Data** | Pandas · NumPy · GeoPandas · scikit-learn · Parquet |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,cpp,rust,cs,java,postgres,mongodb,redis,docker,kubernetes,githubactions,jenkins,linux,git&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, C++, Rust, C#, Java, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions, Jenkins, Linux, Git" />
+  <a href="https://www.jeremie-nagi.workers.dev/#expertise"><img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,cpp,rust,cs,java,postgres,mongodb,redis,docker,kubernetes,githubactions,jenkins,linux,git&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, C++, Rust, C#, Java, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions, Jenkins, Linux, Git" /></a>
 </p>
 
 ## Certificates and awards
 
-<p>
-  <img src="https://img.shields.io/badge/IBM-AI_Developer-052FAD?style=flat-square" alt="IBM AI Developer" />
-  <img src="https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-212C42?style=flat-square" alt="TryHackMe Jr Penetration Tester" />
-  <img src="https://img.shields.io/badge/TryHackMe-Security_Engineer-212C42?style=flat-square" alt="TryHackMe Security Engineer" />
-  <img src="https://img.shields.io/badge/TryHackMe-DevSecOps-212C42?style=flat-square" alt="TryHackMe DevSecOps" />
-  <img src="https://img.shields.io/badge/TryHackMe-Cyber_Security_101-212C42?style=flat-square" alt="TryHackMe Cyber Security 101" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/2nd_place-Microsoft_×_Citiz_hackathon-166534?style=flat-square" alt="2nd place at the Microsoft × Citiz hackathon" />
-  <img src="https://img.shields.io/badge/4th_place-Inter--school_OTP_hackathon-166534?style=flat-square" alt="4th place at an inter-school hackathon" />
-</p>
+| Issuer | Certificates |
+| --- | --- |
+| **IBM** (Coursera) | [AI Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NLPNAKCP7EFK), with its 9 courses |
+| **TryHackMe** | [Jr Penetration Tester](https://tryhackme.com/certificate/THM-VKWDW1TVUB) · [Security Engineer](https://tryhackme.com/certificate/THM-T6G0XWRUKF) · [DevSecOps](https://tryhackme.com/certificate/THM-LWKWJ8UPAP) · [Cyber Security 101 (SEC1)](https://tryhackme.com/certification/certificate/0f40a287-3dd5-4732-8880-67a5875a4bb0) · [Cyber Security 101](https://tryhackme.com/certificate/THM-VEMPGXQSXD) · [Pre Security (SEC0)](https://tryhackme.com/certification/certificate/d1e4649c-906f-4902-9a56-08fff977dfa3) · [Pre Security](https://tryhackme.com/certificate/THM-RHPS6ZUQ2H) · Supercharging Your Pentesting With AI |
+| **Hackathons** | 2nd place, Microsoft × Citiz · [4th place, inter-school OTP hackathon](https://github.com/JN13012/Generateur_Code_OTP) |
