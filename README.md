@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.jeremie-nagi.workers.dev/"><img src="./assets/terminal-profile.svg" width="100%" alt="Jérémie Nagi, AI Developer and Junior Pentester. MSc in information systems and cybersecurity at Epitech Marseille. Looking for a work-study position, internship possible. French, English, Spanish, Arabic." /></a>
+  <a href="https://www.jeremie-nagi.workers.dev/"><img src="./assets/profile-banner.svg" width="100%" alt="Jérémie Nagi, AI Developer and Junior Pentester. MSc in information systems and cybersecurity at Epitech Marseille. Looking for a work-study position, internship possible. French, English, Spanish, Arabic." /></a>
 </p>
 
 <p align="center">
