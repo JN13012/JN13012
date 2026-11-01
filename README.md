@@ -24,7 +24,7 @@
 | **Data** | Pandas · NumPy · GeoPandas · scikit-learn · Parquet |
 
 <p align="center">
-  <a href="https://www.jeremie-nagi.workers.dev/#expertise"><img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,cpp,rust,cs,java,postgres,mongodb,redis,docker,kubernetes,githubactions,jenkins,linux,git&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, C++, Rust, C#, Java, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions, Jenkins, Linux, Git" /></a>
+  <a href="https://www.jeremie-nagi.workers.dev/#competences"><img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,cpp,rust,cs,java,postgres,mongodb,redis,docker,kubernetes,githubactions,jenkins,linux,git&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, C++, Rust, C#, Java, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions, Jenkins, Linux, Git" /></a>
 </p>
 
 ## Certificates and awards
