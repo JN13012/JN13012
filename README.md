@@ -1,8 +1,7 @@
 # Jérémie Nagi
 
-**AI Developer · Junior Pentester.** I build AI applications and look for the weaknesses in systems, so they can be secured.
-
-MSc student in information systems architecture, specializing in cybersecurity, at Epitech Marseille (2025–2028). Looking for a work-study position; an internship is possible. Based in Marseille and mobile.
+**AI Developer · Junior Pentester.**
+MSc student in information systems architecture, at Epitech Marseille (2025–2028). Looking for a work-study position; an internship is possible. Based in Marseille and mobile.
 
 [Portfolio](https://www.jeremie-nagi.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/jn13012) · [TryHackMe](https://tryhackme.com/p/JN13)
 
