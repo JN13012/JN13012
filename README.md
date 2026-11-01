@@ -1,35 +1,42 @@
-# Jérémie Nagi
+<p align="center">
+  <img src="./assets/terminal-profile.svg" width="100%" alt="Jérémie Nagi, AI Developer and Junior Pentester" />
+</p>
 
-**AI Developer · Junior Pentester.**
-MSc student in information systems architecture, at Epitech Marseille (2025–2028). Looking for a work-study position; an internship is possible. Based in Marseille and mobile.
+<p align="center">
+  <a href="https://www.jeremie-nagi.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=4ade80" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jn13012"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/JN13"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+</p>
 
-[Portfolio](https://www.jeremie-nagi.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/jn13012) · [TryHackMe](https://tryhackme.com/p/JN13)
-
-## Selected projects
-
-| Project | What it shows | Status |
-| --- | --- | --- |
-| [Portfolio](https://github.com/JN13012/Portfolio) | A public AI red-team lab on a real model, with guardrails and quotas, plus a 9-level CTF | Live |
-| [Argos](https://github.com/JN13012/Argos) | A cybersecurity platform for SMEs, with an OSINT engine that traces every data point. AI agents are designed, not built yet | In development |
-| [AI Pentest Harness](https://github.com/JN13012/ai-pentest-harness) | Specialized agents for authorized pentests, with scope and evidence enforced by code. Based on a course by Lucas Romano, guardrails hardened and tested | Guardrails tested, no benchmark yet |
-| [BlockTrader](https://github.com/JN13012/BlockTrader) | A crypto trading bot whose 40 strategies are tested against overfitting. Showcase only, the code is private | Paper trading, no real funds |
-| [Cyber-Write-ups](https://github.com/JN13012/Cyber-Write-ups) | 25 pentest write-ups: web, Linux, Windows and Active Directory | Ongoing |
-| [Meeting Companion](https://github.com/JN13012/Business_AI_Meeting_Companion_STT) | Speech-to-text and LLM pipeline. Guided IBM project | Delivered |
-| [Career Coach](https://github.com/JN13012/AI-Career-Coach) | LLM application on watsonx. Guided IBM project | Delivered |
+<p align="center">
+  MSc in information systems and cybersecurity at Epitech Marseille · <b>Looking for a work-study position</b> · Internship possible<br />
+  French · English · Spanish · Arabic
+</p>
 
 ## Skills
 
-- **AI:** LLM applications, RAG, speech-to-text and text-to-speech, prompt injection testing
-- **Security:** web and network pentesting, privilege escalation, Active Directory
-- **Development:** Python, TypeScript, React, NestJS, C++, Cloudflare Workers
-- **DevOps:** Docker, Docker Compose, Jenkins, GitHub Actions
+| Domain | What I work with |
+| --- | --- |
+| **Applied AI** | LLM applications · RAG · speech pipelines · LangChain · FAISS · Hugging Face · PyTorch · spaCy |
+| **AI security** | Prompt injection · LLM guardrails · Promptfoo · garak · PyRIT |
+| **Pentest** | Web · Active Directory · Linux and Windows privilege escalation · Burp Suite · Nmap · ffuf · SQLMap · Metasploit · BloodHound · Impacket · NetExec · Hashcat |
+| **Cyber defense** | Log and traffic analysis · malware analysis in a lab · hardening · Splunk · Wireshark · Snort · REMnux · FlareVM |
+| **Data** | Pandas · NumPy · GeoPandas · scikit-learn · Parquet |
 
-## Certificates
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,cpp,rust,cs,java,postgres,mongodb,redis,docker,kubernetes,githubactions,jenkins,linux,git&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, C++, Rust, C#, Java, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions, Jenkins, Linux, Git" />
+</p>
 
-18 certificates, including the [IBM AI Developer](https://www.coursera.org/user/e4a10664a5b2f8c1c89a72345402e8b1) professional certificate and TryHackMe [Jr Penetration Tester](https://tryhackme.com/p/JN13). The full list is on the portfolio.
+## Certificates and awards
 
-## Background
-
-I came to software after working as an infantry soldier and a motorsport mechanic, including the 24 Hours of Le Mans. I have lived in Lebanon, Qatar, Saudi Arabia, Canada, Peru and France.
-
-**Languages:** French, English, Spanish, Arabic, basic German.
+<p>
+  <img src="https://img.shields.io/badge/IBM-AI_Developer-052FAD?style=flat-square" alt="IBM AI Developer" />
+  <img src="https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-212C42?style=flat-square" alt="TryHackMe Jr Penetration Tester" />
+  <img src="https://img.shields.io/badge/TryHackMe-Security_Engineer-212C42?style=flat-square" alt="TryHackMe Security Engineer" />
+  <img src="https://img.shields.io/badge/TryHackMe-DevSecOps-212C42?style=flat-square" alt="TryHackMe DevSecOps" />
+  <img src="https://img.shields.io/badge/TryHackMe-Cyber_Security_101-212C42?style=flat-square" alt="TryHackMe Cyber Security 101" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/2nd_place-Microsoft_×_Citiz_hackathon-166534?style=flat-square" alt="2nd place at the Microsoft × Citiz hackathon" />
+  <img src="https://img.shields.io/badge/4th_place-Inter--school_OTP_hackathon-166534?style=flat-square" alt="4th place at an inter-school hackathon" />
+</p>
